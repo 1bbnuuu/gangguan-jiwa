@@ -1,0 +1,36 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.container {
+  width: 550px;
+  margin: auto;
+  padding: 20px;
+}
+.container h1 {
+  text-align: center;
+}
+.container .gejala-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  border-bottom: black solid 1px;
+}
+.container select {
+  border: none;
+}
+.container button {
+  margin: 10px 5px;
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.container #result-container {
+  margin-top: 20px;
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */
