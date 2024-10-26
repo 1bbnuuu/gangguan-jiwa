@@ -1,4 +1,4 @@
-# Sistem Pakar dalam Menganalisis GangguanJiwa Menggunakan Metode CertaintyFactor
+# Sistem Pakar dalam Menganalisis GangguanJiwa Menggunakan Metode Certainty Factor
 article: https://jsisfotek.org/index.php/JSisfotek/article/view/70/70
 
 web: https://1bbnuuu.github.io/gangguan-jiwa/
@@ -14,6 +14,13 @@ Kelas/Semester	: TI-A, 5
 5. Rahmad Eka Septiandy (C2255201069)
 6. Arbhy Yursiwan Fachrany (C2055201045)
 
+# Alur Diagnosa
+
+Pengguna memilih gejala dan nilai FK, kemudian:
+
+Aplikasi mencocokkan gejala yang dipilih dengan rule yang ada.
+Jika aturan terpenuhi, aplikasi menghitung FKCombine dan menambahkannya ke hasil diagnosa.
+Hasil akhir ditampilkan dengan nilai FKCombine persentase dan daftar aturan yang digunakan.
 
 Gambar aplikasi web:
 ![image](https://github.com/user-attachments/assets/f5b14622-bdf9-48c7-a83e-2c2d95329d8a)
