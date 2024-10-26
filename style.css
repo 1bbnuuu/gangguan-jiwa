@@ -58,6 +58,7 @@ body {
 }
 .container select {
   border: none;
+  background-color: transparent;
 }
 .container button {
   margin: 10px 5px;
