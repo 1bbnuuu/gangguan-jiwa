@@ -23,4 +23,4 @@ Jika aturan terpenuhi, aplikasi menghitung FKCombine dan menambahkannya ke hasil
 Hasil akhir ditampilkan dengan nilai FKCombine persentase dan daftar aturan yang digunakan.
 
 Gambar aplikasi:
-![image](https://github.com/user-attachments/assets/f5b14622-bdf9-48c7-a83e-2c2d95329d8a)
+![image](https://github.com/user-attachments/assets/0caf49c5-923d-45dc-9486-c7e0e94fc01c)
