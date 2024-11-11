@@ -1,7 +1,7 @@
 # Sistem Pakar dalam Menganalisis GangguanJiwa Menggunakan Metode Certainty Factor
 article: https://jsisfotek.org/index.php/JSisfotek/article/view/70/70
 
-web: https://1bbnuuu.github.io/gangguan-jiwa/
+website: https://1bbnuuu.github.io/gangguan-jiwa/
 
 Matakuliah	: Sistem Pakar
 
